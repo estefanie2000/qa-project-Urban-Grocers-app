@@ -2,13 +2,12 @@ headers = {
     "Content-Type": "application/json"
 }
 
+user_body = {
+    "firstName": "Max",
+    "phone": "+10005553535",
+    "address": "8042 Lancaster Ave.Hamburg, NY"
+}
+
 kit_body = {
-       "name": "Mi conjunto",
-       "card": {
-           "id": 1,
-           "name": "Para la situacion"
-       },
-       "productsList": null,
-       "id": 7,
-       "productsCount": 0
-   }
+    "name": "Estefanie"
+}
